@@ -5,8 +5,11 @@ The purpose of this project is to allow the control of traffic lights using an
 Arduino and micro-controllable relays.  There will be 3 versions of the project.
 
 o 3 Way Traffic Light
+
 o 4 Way Traffic Light
+
 o Pedistrian Crossing Sign with countdown
+
 
 My first version of the project uses a 4 way relay module with SRD-05VDC-SL-C relays.
 These are mechanical relays and thus have limited lifespan.  The production versions
