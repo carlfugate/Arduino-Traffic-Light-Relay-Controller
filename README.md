@@ -8,7 +8,7 @@ o 3 Way Traffic Light
 
 o 4 Way Traffic Light
 
-o Pedistrian Crossing Sign with countdown
+o Pedestrian Crossing Sign with countdown
 
 
 My first version of the project uses a 4 way relay module with SRD-05VDC-SL-C relays.
